@@ -1,2 +1,1 @@
-# Regression
-Linear Regression, Logistic Regression 
+# Regression | Classification | Clustering
